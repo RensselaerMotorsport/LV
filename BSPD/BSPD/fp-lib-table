@@ -2,4 +2,7 @@
   (version 7)
   (lib (name "LTC6994")(type "KiCad")(uri "${KIPRJMOD}/LTC6994CS6_1_TRMPBF/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "AZ943_1CH_12DE")(type "KiCad")(uri "${KIPRJMOD}/AZ943_1CH_12DE/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "DRDC3105")(type "KiCad")(uri "${KIPRJMOD}/DRDC3105F_7/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "Molex_430450626")(type "KiCad")(uri "${KIPRJMOD}/Molex_430450626/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "TLV7012DDFR")(type "KiCad")(uri "${KIPRJMOD}/TLV7012DDFR.pretty")(options "")(descr ""))
 )

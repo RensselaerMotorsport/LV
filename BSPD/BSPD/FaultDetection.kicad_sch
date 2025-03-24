@@ -1028,49 +1028,104 @@
 		)
 		(uuid "e39c991f-6d91-4fc9-aedf-349cd85b5915")
 	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 39.37 106.68 90)
+	(label "Brake Over"
+		(at 77.47 40.64 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "2014d198-2e8c-47c3-80e6-e251e9a25f4e")
-		(property "Netclass" "Sense2"
-			(at 31.496 103.378 0)
-			(effects
-				(font
-					(size 2 2)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
+		(uuid "0822e4da-3a87-4acc-b072-15ab8070e545")
 	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 39.37 139.7 90)
+	(label "Current Sense"
+		(at 39.37 139.7 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.8 1.8)
+			)
+			(justify right)
+		)
+		(uuid "086cb2ab-70b6-4f57-b3d0-39da4e441569")
+	)
+	(label "Circuit Fault"
+		(at 158.75 90.17 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "5104013c-c3ac-4942-a68f-5ab32d3f858a")
-		(property "Netclass" "Sense2"
-			(at 31.496 136.398 0)
-			(effects
-				(font
-					(size 2 2)
-					(italic yes)
-				)
-				(justify left)
+		(uuid "209c4ae3-8d2b-48cb-8d42-ec37cec08f53")
+	)
+	(label "Brake Sense"
+		(at 39.37 38.1 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.8 1.8)
 			)
+			(justify right)
 		)
+		(uuid "2bf782d9-00ea-4c02-bfba-93df995a2612")
+	)
+	(label "Current Under"
+		(at 77.47 142.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "7dda86f1-d367-44e1-b1ac-034073226f43")
+	)
+	(label "Current Over"
+		(at 77.47 109.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "879f00cd-efa5-4a6e-8f83-27883d6c67dd")
+	)
+	(label "Current Sense"
+		(at 39.37 106.68 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.8 1.8)
+			)
+			(justify right)
+		)
+		(uuid "9b9ecf1e-4c07-40d2-abc2-5bb961434209")
+	)
+	(label "Brake Under"
+		(at 77.47 73.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "9e678b8c-bd76-473d-b3a7-5e1b9b431f5a")
+	)
+	(label "Brake Sense"
+		(at 39.37 71.12 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.8 1.8)
+			)
+			(justify right)
+		)
+		(uuid "c9cde379-c7bc-4085-b0d0-58b03dc15b9f")
 	)
 	(netclass_flag ""
 		(length 2.54)
@@ -1121,28 +1176,6 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 158.75 90.17 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7c55fc5c-73b8-4d95-a35c-6a0165300e77")
-		(property "Netclass" "CircuitFault"
-			(at 160.528 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
 		(at 49.53 96.52 0)
 		(fields_autoplaced yes)
 		(effects
@@ -1157,50 +1190,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 39.37 71.12 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "85e57349-55f4-4e88-8851-d635361724f3")
-		(property "Netclass" "Sense1"
-			(at 31.496 67.818 0)
-			(effects
-				(font
-					(size 2 2)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 39.37 38.1 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a37a0e77-52a1-49e3-8d81-fd3ee9bf6c15")
-		(property "Netclass" "Sense1"
-			(at 31.496 34.798 0)
-			(effects
-				(font
-					(size 2 2)
 					(italic yes)
 				)
 				(justify left)
