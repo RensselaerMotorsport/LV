@@ -15,7 +15,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 0 5.08 0)
+			(at 0 10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23,7 +23,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 5.08 0)
+			(at 0 10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32,7 +32,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 5.08 0)
+			(at 0 10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41,7 +41,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 5.08 0)
+			(at 0 10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56,30 +56,6 @@
 				)
 				(stroke
 					(width 0.127)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 7.62) (xy 6.35 7.62)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 12.7) (xy 6.35 12.7)
-				)
-				(stroke
-					(width 0)
 					(type default)
 				)
 				(fill
@@ -112,82 +88,10 @@
 			)
 			(polyline
 				(pts
-					(xy 25.4 2.54) (xy 17.78 2.54)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 25.4 7.62) (xy 17.78 7.62)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
 					(xy 25.4 20.32) (xy 0 20.32)
 				)
 				(stroke
 					(width 0.127)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 6.35 13.97) (xy 6.35 6.35) (xy 10.16 10.16) (xy 6.35 13.97)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 10.16 10.16) (xy 11.43 10.16) (xy 11.43 17.78) (xy 0 17.78)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 13.97 5.08) (xy 12.7 5.08) (xy 12.7 12.7) (xy 25.4 12.7)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 17.78 1.27) (xy 17.78 8.89) (xy 13.97 5.08) (xy 17.78 1.27)
-				)
-				(stroke
-					(width 0)
 					(type default)
 				)
 				(fill
@@ -205,7 +109,7 @@
 				)
 			)
 			(pin output line
-				(at -7.62 17.78 0)
+				(at 33.02 12.7 180)
 				(length 7.62)
 				(name "OUTA"
 					(effects
@@ -241,7 +145,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 7.62 0)
+				(at -7.62 17.78 0)
 				(length 7.62)
 				(name "INA+"
 					(effects
@@ -259,7 +163,7 @@
 				)
 			)
 			(pin power_in line
-				(at -7.62 2.54 0)
+				(at 33.02 2.54 180)
 				(length 7.62)
 				(name "VEE"
 					(effects
@@ -277,7 +181,7 @@
 				)
 			)
 			(pin input line
-				(at 33.02 2.54 180)
+				(at -7.62 7.62 0)
 				(length 7.62)
 				(name "INB+"
 					(effects
@@ -295,7 +199,7 @@
 				)
 			)
 			(pin input line
-				(at 33.02 7.62 180)
+				(at -7.62 2.54 0)
 				(length 7.62)
 				(name "INB-"
 					(effects
@@ -313,7 +217,7 @@
 				)
 			)
 			(pin output line
-				(at 33.02 12.7 180)
+				(at 33.02 7.62 180)
 				(length 7.62)
 				(name "OUTB"
 					(effects
