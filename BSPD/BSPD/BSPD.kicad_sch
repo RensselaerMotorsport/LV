@@ -4754,6 +4754,7 @@
 	)
 	(label "Brake Under"
 		(at 105.41 158.75 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4764,6 +4765,7 @@
 	)
 	(label "Shutdown In"
 		(at 248.92 43.18 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4774,6 +4776,7 @@
 	)
 	(label "Current Applied"
 		(at 124.46 77.47 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4784,6 +4787,7 @@
 	)
 	(label "Current Sense"
 		(at 38.1 68.58 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4794,6 +4798,7 @@
 	)
 	(label "Shutdown Out"
 		(at 248.92 50.8 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4804,6 +4809,7 @@
 	)
 	(label "Brake Sense"
 		(at 36.83 58.42 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4814,6 +4820,7 @@
 	)
 	(label "Relay Sig"
 		(at 185.42 115.57 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4824,6 +4831,7 @@
 	)
 	(label "Circuit Fault"
 		(at 86.36 115.57 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4834,6 +4842,7 @@
 	)
 	(label "Current Sense"
 		(at 248.92 48.26 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4844,6 +4853,7 @@
 	)
 	(label "Shutdown In"
 		(at 229.87 106.68 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4854,6 +4864,7 @@
 	)
 	(label "Current Under"
 		(at 135.89 158.75 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4864,6 +4875,7 @@
 	)
 	(label "Shutdown Out"
 		(at 262.89 125.73 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4874,6 +4886,7 @@
 	)
 	(label "Brake Over"
 		(at 91.44 158.75 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4884,6 +4897,7 @@
 	)
 	(label "Current Over"
 		(at 120.65 158.75 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4894,6 +4908,7 @@
 	)
 	(label "Current Applied"
 		(at 73.66 158.75 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4904,6 +4919,7 @@
 	)
 	(label "BSP"
 		(at 157.48 66.04 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4914,6 +4930,7 @@
 	)
 	(label "Brake Sense"
 		(at 248.92 40.64 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4924,6 +4941,7 @@
 	)
 	(label "Brake Applied"
 		(at 57.15 158.75 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4934,6 +4952,7 @@
 	)
 	(label "BSP"
 		(at 86.36 120.65 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4944,6 +4963,7 @@
 	)
 	(label "Brake Applied"
 		(at 124.46 50.8 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4954,6 +4974,7 @@
 	)
 	(label "Relay Sig"
 		(at 44.45 158.75 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9364,7 +9385,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1M"
+		(property "Value" "523k"
 			(at 176.53 124.4599 0)
 			(effects
 				(font
@@ -9794,7 +9815,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "523k"
+		(property "Value" "1M"
 			(at 176.53 132.0799 0)
 			(effects
 				(font
