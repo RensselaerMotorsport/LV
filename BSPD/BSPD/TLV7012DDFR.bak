@@ -100,6 +100,14 @@
 			)
 		)
 		(symbol "TLV7012DDFR_1_1"
+			(text "COMP"
+				(at 12.7 10.16 0)
+				(effects
+					(font
+						(size 1.75 1.75)
+					)
+				)
+			)
 			(text "TLV7012DDFR"
 				(at 12.446 21.59 0)
 				(effects

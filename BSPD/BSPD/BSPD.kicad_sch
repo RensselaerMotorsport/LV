@@ -2114,7 +2114,7 @@
 				)
 			)
 		)
-		(symbol "Molex_430450626:430450626"
+		(symbol "Molex_430450613:430450613"
 			(pin_names
 				(offset 0.254)
 			)
@@ -2129,7 +2129,7 @@
 					)
 				)
 			)
-			(property "Value" "430450626"
+			(property "Value" "430450613"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2137,7 +2137,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CONN_SD-43045-009_06_MOL"
+			(property "Footprint" "CONN_SD-43045-005_06_MOL"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2147,7 +2147,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "430450626"
+			(property "Datasheet" "430450613"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2174,7 +2174,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "430450626"
+			(property "ki_keywords" "430450613"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2183,7 +2183,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "CONN_SD-43045-009_06_MOL"
+			(property "ki_fp_filters" "CONN_SD-43045-005_06_MOL"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2192,7 +2192,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "430450626_1_1"
+			(symbol "430450613_1_1"
 				(polyline
 					(pts
 						(xy 5.08 -15.24) (xy 12.7 -15.24)
@@ -2566,7 +2566,7 @@
 					)
 				)
 			)
-			(symbol "430450626_1_2"
+			(symbol "430450613_1_2"
 				(polyline
 					(pts
 						(xy 5.08 -15.24) (xy 12.7 -15.24)
@@ -3089,7 +3089,7 @@
 					)
 				)
 			)
-			(property "Value" ""
+			(property "Value" "TLV7012DDFR"
 				(at 0 10.16 0)
 				(effects
 					(font
@@ -3097,7 +3097,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23-8"
 				(at 0 10.16 0)
 				(effects
 					(font
@@ -4764,7 +4764,7 @@
 		(uuid "04872d12-53e2-4b04-977a-56cf8db27159")
 	)
 	(label "Shutdown In"
-		(at 248.92 43.18 180)
+		(at 248.92 50.8 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4797,7 +4797,7 @@
 		(uuid "3368eaef-121e-468a-9f96-c70d784f63c7")
 	)
 	(label "Shutdown Out"
-		(at 248.92 50.8 180)
+		(at 248.92 48.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4841,7 +4841,7 @@
 		(uuid "563b877c-2290-4bb9-8cbd-4df2f55367f3")
 	)
 	(label "Current Sense"
-		(at 248.92 48.26 180)
+		(at 248.92 43.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5011,7 +5011,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CMD17_21VGD:LED0805N_CML"
 			(at 120.65 171.45 0)
 			(effects
 				(font
@@ -5211,7 +5211,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TSSOP5_SOT353-1_NEX"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 141.986 49.53 0)
 			(effects
 				(font
@@ -5292,7 +5292,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CMD17_21VGD:LED0805N_CML"
 			(at 135.89 171.45 0)
 			(effects
 				(font
@@ -5757,7 +5757,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CMD17_21VGD:LED0805N_CML"
 			(at 44.45 171.45 0)
 			(effects
 				(font
@@ -5961,7 +5961,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT23_DIO"
+		(property "Footprint" "DRDC3105:SOT23_DIO"
 			(at 195.58 118.11 0)
 			(effects
 				(font
@@ -6297,7 +6297,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TSOT-23_S6_LIT"
+		(property "Footprint" "LTC6994:TSOT-23_S6_LIT"
 			(at 135.89 118.11 0)
 			(effects
 				(font
@@ -6382,7 +6382,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 48.26 81.28 0)
 			(effects
 				(font
@@ -6452,7 +6452,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CMD17_21VGD:LED0805N_CML"
 			(at 105.41 171.45 0)
 			(effects
 				(font
@@ -6655,7 +6655,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 67.31 81.28 0)
 			(effects
 				(font
@@ -6990,7 +6990,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CMD17_21VGD:LED0805N_CML"
 			(at 91.44 171.45 0)
 			(effects
 				(font
@@ -7058,7 +7058,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CL10A104K:CAP_CL10_SAM"
 			(at 156.21 137.4648 0)
 			(effects
 				(font
@@ -7128,7 +7128,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CMD17_21VGD:LED0805N_CML"
 			(at 73.66 171.45 0)
 			(effects
 				(font
@@ -7165,6 +7165,90 @@
 			(project "BSPD"
 				(path "/e182f3fc-f710-48d1-be81-2e1aaca2fe5e"
 					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Molex_430450613:430450613")
+		(at 248.92 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6f379614-147f-47d3-99fc-3f98025aafdc")
+		(property "Reference" "J1"
+			(at 262.89 43.1799 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "430450613"
+			(at 262.89 45.7199 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Molex_430450613:CONN_SD-43045-005_06_MOL"
+			(at 248.92 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "430450613"
+			(at 248.92 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 248.92 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "360daa80-576a-4955-922e-ccf4ed7b21c6")
+		)
+		(pin "3"
+			(uuid "9a266a61-b71d-4a74-a59f-67ad3ca9351d")
+		)
+		(pin "6"
+			(uuid "0105d563-ce74-4b56-b43e-495fa73e32a1")
+		)
+		(pin "5"
+			(uuid "0fd1dfa5-0aa9-4e92-96ca-e941be0ba871")
+		)
+		(pin "1"
+			(uuid "578ea6d1-7f45-4fad-ab6a-b3265b6b6d6b")
+		)
+		(pin "4"
+			(uuid "e204ff43-9a5a-4b4b-a51c-41d6e2bc8345")
+		)
+		(instances
+			(project ""
+				(path "/e182f3fc-f710-48d1-be81-2e1aaca2fe5e"
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -7264,7 +7348,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CMD17_21VGD:LED0805N_CML"
 			(at 30.48 171.45 0)
 			(effects
 				(font
@@ -7334,7 +7418,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 103.632 162.56 90)
 			(effects
 				(font
@@ -7403,7 +7487,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CL10A104K:CAP_CL10_SAM"
 			(at 178.7652 45.72 0)
 			(effects
 				(font
@@ -7470,7 +7554,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AZ943-1CH_AMZ"
+		(property "Footprint" "AZ943_1CH_12DE:AZ943-1CH_AMZ"
 			(at 232.41 115.57 0)
 			(effects
 				(font
@@ -7617,7 +7701,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 118.872 162.56 90)
 			(effects
 				(font
@@ -7886,7 +7970,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PV36W103C01B00:RES3_PV36W103C01B00_BRN"
 			(at 67.31 49.53 0)
 			(effects
 				(font
@@ -8025,7 +8109,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 132.842 128.27 90)
 			(effects
 				(font
@@ -8095,7 +8179,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 42.672 162.56 90)
 			(effects
 				(font
@@ -8163,7 +8247,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TSSOP5_SOT353-1_NEX"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 99.314 102.362 0)
 			(effects
 				(font
@@ -8242,7 +8326,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CL10A104K:CAP_CL10_SAM"
 			(at 120.65 112.0648 0)
 			(effects
 				(font
@@ -8444,7 +8528,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 89.662 162.56 90)
 			(effects
 				(font
@@ -8512,7 +8596,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CL10A104K:CAP_CL10_SAM"
 			(at 125.73 38.4048 0)
 			(effects
 				(font
@@ -8582,7 +8666,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PV36W103C01B00:RES3_PV36W103C01B00_BRN"
 			(at 48.26 49.53 0)
 			(effects
 				(font
@@ -8721,7 +8805,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 134.112 162.56 90)
 			(effects
 				(font
@@ -8857,7 +8941,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 28.702 162.56 90)
 			(effects
 				(font
@@ -9057,7 +9141,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CL10A104K:CAP_CL10_SAM"
 			(at 158.75 54.9148 0)
 			(effects
 				(font
@@ -9259,7 +9343,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 71.882 162.56 90)
 			(effects
 				(font
@@ -9394,7 +9478,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 172.212 123.19 90)
 			(effects
 				(font
@@ -9503,90 +9587,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Molex_430450626:430450626")
-		(at 248.92 38.1 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ed19227b-4220-41b4-b2f8-d51196bdbdf8")
-		(property "Reference" "J1"
-			(at 262.89 43.1799 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "430450626"
-			(at 262.89 45.7199 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "CONN_SD-43045-009_06_MOL"
-			(at 248.92 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "430450626"
-			(at 248.92 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 248.92 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "7a40e601-3918-4c99-b3ba-a17d1b35c860")
-		)
-		(pin "4"
-			(uuid "41e6af6e-6eeb-4b6d-bb50-de30adb6907b")
-		)
-		(pin "1"
-			(uuid "d849466d-408a-4a86-bfe5-f210143b66a7")
-		)
-		(pin "5"
-			(uuid "e2b29312-33bb-48f5-bb2d-427d26e42543")
-		)
-		(pin "6"
-			(uuid "1735d9c8-147a-4ec7-937a-46fdea9f22f1")
-		)
-		(pin "3"
-			(uuid "1670b74c-8445-4be6-af51-13224abd32f5")
-		)
-		(instances
-			(project ""
-				(path "/e182f3fc-f710-48d1-be81-2e1aaca2fe5e"
-					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 57.15 162.56 0)
 		(unit 1)
@@ -9614,7 +9614,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 55.372 162.56 90)
 			(effects
 				(font
@@ -9684,7 +9684,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CL10A104K:CAP_CL10_SAM"
 			(at 206.7052 45.72 0)
 			(effects
 				(font
@@ -9754,7 +9754,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CMD17_21VGD:LED0805N_CML"
 			(at 57.15 171.45 0)
 			(effects
 				(font
@@ -9824,7 +9824,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 172.212 130.81 90)
 			(effects
 				(font
@@ -9892,7 +9892,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-8"
 			(at 85.09 66.04 0)
 			(effects
 				(font

@@ -655,7 +655,7 @@
 					)
 				)
 			)
-			(property "Value" ""
+			(property "Value" "TLV7012DDFR"
 				(at 0 10.16 0)
 				(effects
 					(font
@@ -663,7 +663,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23-8"
 				(at 0 10.16 0)
 				(effects
 					(font
@@ -2057,7 +2057,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CL10A104K:CAP_CL10_SAM"
 			(at 195.58 72.6948 0)
 			(effects
 				(font
@@ -2128,7 +2128,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 62.23 95.25 0)
 			(effects
 				(font
@@ -2196,7 +2196,7 @@
 				)
 			)
 		)
-		(property "Footprint" "74HC32D_653:SOIC127P600X175-14N"
+		(property "Footprint" "Package_SO:SO-14_5.3x10.2mm_P1.27mm"
 			(at 168.91 87.63 0)
 			(effects
 				(font
@@ -2420,7 +2420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 74.93 95.25 0)
 			(effects
 				(font
@@ -2623,7 +2623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 62.23 73.66 0)
 			(effects
 				(font
@@ -2757,7 +2757,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-8"
 			(at 95.25 59.69 0)
 			(effects
 				(font
@@ -2843,7 +2843,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CL10A104K:CAP_CL10_SAM"
 			(at 135.89 48.5648 0)
 			(effects
 				(font
@@ -2911,7 +2911,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CL10A104K:CAP_CL10_SAM"
 			(at 135.89 99.3648 0)
 			(effects
 				(font
@@ -3047,7 +3047,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 74.93 124.46 0)
 			(effects
 				(font
@@ -3247,7 +3247,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-8"
 			(at 95.25 110.49 0)
 			(effects
 				(font
@@ -3402,7 +3402,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 62.23 44.45 0)
 			(effects
 				(font
@@ -3605,7 +3605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 62.23 124.46 0)
 			(effects
 				(font
@@ -3873,7 +3873,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 74.93 73.66 0)
 			(effects
 				(font
@@ -3944,7 +3944,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 74.93 44.45 0)
 			(effects
 				(font
