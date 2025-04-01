@@ -1208,16 +1208,6 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 86.36) (xy 146.05 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0615d607-c1f6-473d-9307-8415c75f9181")
-	)
-	(wire
-		(pts
 			(xy 74.93 107.95) (xy 74.93 121.92)
 		)
 		(stroke
@@ -1248,7 +1238,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 88.9) (xy 151.13 88.9)
+			(xy 148.59 86.36) (xy 151.13 86.36)
 		)
 		(stroke
 			(width 0)
@@ -1388,6 +1378,16 @@
 	)
 	(wire
 		(pts
+			(xy 146.05 88.9) (xy 146.05 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c3833f9-b226-4a3f-9424-d529933ad620")
+	)
+	(wire
+		(pts
 			(xy 191.77 83.82) (xy 191.77 100.33)
 		)
 		(stroke
@@ -1445,6 +1445,16 @@
 			(type default)
 		)
 		(uuid "5ecd7c20-e42b-42ce-944a-e43c9f314ef3")
+	)
+	(wire
+		(pts
+			(xy 148.59 86.36) (xy 148.59 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61a96319-d259-4666-b6a5-ce08a834a3db")
 	)
 	(wire
 		(pts
@@ -1618,7 +1628,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 86.36) (xy 146.05 86.36)
+			(xy 151.13 88.9) (xy 146.05 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1758,16 +1768,6 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 100.33) (xy 148.59 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ee3c8a67-e489-4ad2-b1b4-5b0b2d421e4c")
-	)
-	(wire
-		(pts
 			(xy 148.59 100.33) (xy 191.77 100.33)
 		)
 		(stroke
@@ -1877,50 +1877,6 @@
 		)
 		(uuid "0822e4da-3a87-4acc-b072-15ab8070e545")
 	)
-	(label "Current Sense"
-		(at 50.8 102.87 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.8 1.8)
-			)
-			(justify right)
-		)
-		(uuid "1b26ca86-6242-4e8b-894c-ece4a8666026")
-	)
-	(label "Circuit Fault"
-		(at 203.2 86.36 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "209c4ae3-8d2b-48cb-8d42-ec37cec08f53")
-	)
-	(label "Brake Sense"
-		(at 50.8 52.07 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.8 1.8)
-			)
-			(justify right)
-		)
-		(uuid "2bf782d9-00ea-4c02-bfba-93df995a2612")
-	)
-	(label "Current Sense"
-		(at 50.8 118.11 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.8 1.8)
-			)
-			(justify right)
-		)
-		(uuid "6a1621ba-7a79-4016-a5aa-1f6dddca6bbd")
-	)
 	(label "Current Under"
 		(at 147.32 113.03 0)
 		(fields_autoplaced yes)
@@ -1954,16 +1910,115 @@
 		)
 		(uuid "9e678b8c-bd76-473d-b3a7-5e1b9b431f5a")
 	)
-	(label "Brake Sense"
+	(global_label "Circuit Fault"
+		(shape output)
+		(at 203.2 86.36 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "18d1c7f9-cefb-40e6-9011-fe94aa8d0799")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 218.1594 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Brake Sense"
+		(shape input)
 		(at 50.8 67.31 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
-				(size 1.8 1.8)
+				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "c9cde379-c7bc-4085-b0d0-58b03dc15b9f")
+		(uuid "4771fb0b-459a-4d04-a483-2030c8d44e63")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.9615 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Current Sense"
+		(shape input)
+		(at 50.8 102.87 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4b20df55-24c5-473c-97a0-67cb97021614")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 34.3287 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Current Sense"
+		(shape input)
+		(at 50.8 118.11 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "84d326aa-56ae-436a-87eb-fa9f4ff4f2e7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 34.3287 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Brake Sense"
+		(shape input)
+		(at 50.8 52.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "eef89a74-40bd-413c-aa7f-d07a6c770811")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.9615 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -3376,24 +3431,24 @@
 	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 62.23 44.45 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "917853ff-45ac-4d57-bb0a-31ee4db8cfdf")
 		(property "Reference" "R13"
-			(at 64.77 44.4499 0)
+			(at 59.69 44.4499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "R_Small_US"
-			(at 64.77 45.7199 0)
+			(at 59.69 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)

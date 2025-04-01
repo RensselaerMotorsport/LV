@@ -1,4 +1,4 @@
-24440510485192216
+24440510662869230
 AZ943_1CH_12DE
 AZ943-1CH_AMZ
 
@@ -65925,13 +65925,13 @@ module pcb
 0
 7
 7
-Molex_430450626
-CONN_SD-43045-009_06_MOL
+Molex_430450613
+CONN_SD-43045-005_06_MOL
 
-430450626 
+430450613 
 0
-8
-8
+6
+6
 Motors
 Vybronics_VZ30C1T8219732L
 Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf

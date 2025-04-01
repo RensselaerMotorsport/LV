@@ -5,4 +5,5 @@
   (lib (name "DRDC3105")(type "KiCad")(uri "${KIPRJMOD}/DRDC3105F_7/KiCADv6/2025-03-23_21-24-16.kicad_sym")(options "")(descr ""))
   (lib (name "TLV7012DDFR")(type "KiCad")(uri "${KIPRJMOD}/TLV7012DDFR.kicad_sym")(options "")(descr ""))
   (lib (name "Molex_430450613")(type "KiCad")(uri "${KIPRJMOD}/Molex_430450613/KiCADv6/2025-03-26_00-19-56.kicad_sym")(options "")(descr ""))
+  (lib (name "UA78M05CDCYR")(type "KiCad")(uri "${KIPRJMOD}/UA78M05CDCYR/KiCADv6/2025-04-01_05-29-38.kicad_sym")(options "")(descr ""))
 )
