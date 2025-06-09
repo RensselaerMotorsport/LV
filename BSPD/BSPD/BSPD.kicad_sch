@@ -4686,7 +4686,6 @@
 	)
 	(label "Shutdown In"
 		(at 248.92 50.8 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4697,7 +4696,6 @@
 	)
 	(label "Current Applied"
 		(at 124.46 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4708,7 +4706,6 @@
 	)
 	(label "Shutdown Out"
 		(at 248.92 48.26 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4719,7 +4716,6 @@
 	)
 	(label "Relay Sig"
 		(at 185.42 115.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4730,7 +4726,6 @@
 	)
 	(label "Shutdown In"
 		(at 229.87 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4741,7 +4736,6 @@
 	)
 	(label "Shutdown Out"
 		(at 262.89 125.73 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4752,7 +4746,6 @@
 	)
 	(label "Current Applied"
 		(at 95.25 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4763,7 +4756,6 @@
 	)
 	(label "BSP"
 		(at 157.48 66.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4774,7 +4766,6 @@
 	)
 	(label "Brake Applied"
 		(at 78.74 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4785,7 +4776,6 @@
 	)
 	(label "BSP"
 		(at 86.36 115.57 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4796,7 +4786,6 @@
 	)
 	(label "Brake Applied"
 		(at 124.46 50.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4807,7 +4796,6 @@
 	)
 	(label "Relay Sig"
 		(at 66.04 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
