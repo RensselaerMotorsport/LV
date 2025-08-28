@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "STM32F767ZIT6")(type "KiCad")(uri "C:/Users/blake/Documents/GitHub/LV/VCU/Parts/STM32F767ZIT6/2025-08-26_02-43-58.kicad_sym")(options "")(descr ""))
+  (lib (name "AMPSuperseal60pin")(type "KiCad")(uri "C:/Users/blake/Documents/GitHub/LV/VCU/Parts/AMP SUPERSEAL 60 Pin/3-6437285-2.kicad_sym")(options "")(descr ""))
+)

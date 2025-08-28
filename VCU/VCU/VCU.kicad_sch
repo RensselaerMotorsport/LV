@@ -1,0 +1,141 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "cf3f005a-c2c1-43ac-a434-bbc2742f095e")
+	(paper "A4")
+	(title_block
+		(title "TOP & POWER")
+	)
+	(lib_symbols)
+	(label "Vin"
+		(at 20.32 27.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "23f4e178-1ddc-46c3-9657-888b4d75f88b")
+	)
+	(label "Vdig"
+		(at 20.32 30.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "48255a06-df37-4e14-8939-5c74953bfa2c")
+	)
+	(label "VDD"
+		(at 20.32 25.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5de38ecd-0ed9-45b2-9318-93351d58d633")
+	)
+	(label "Van"
+		(at 20.32 33.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "90384bd1-822e-49f0-b9ac-56725a9ee0f5")
+	)
+	(sheet
+		(at 72.39 154.94)
+		(size 34.29 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "08f08610-75b7-4a70-9284-82ac43c9f8c7")
+		(property "Sheetname" "Connectors"
+			(at 72.39 154.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Connectors.kicad_sch"
+			(at 72.39 178.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "VCU"
+				(path "/cf3f005a-c2c1-43ac-a434-bbc2742f095e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 154.94)
+		(size 34.29 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5e0bb8bb-854f-4cde-a40b-e2425af5fbfd")
+		(property "Sheetname" "MCU"
+			(at 31.75 154.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 31.75 178.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "VCU"
+				(path "/cf3f005a-c2c1-43ac-a434-bbc2742f095e"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
